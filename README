@@ -1,0 +1,12 @@
+Book-Recommender-System using two approaches:
+        
+1.Popularity based: we will display the top 50 books with maximum average rating and 
+                    we will consider only those books which contains minimum 250 votes.
+                    
+2.collaborative filtering based: In this system, we will consider only those users who rate on minimum 200 books and 
+                                 we will consider only those books which have minimum 50 rates.
+                                 
+
+
+
+       
